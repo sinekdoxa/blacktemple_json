@@ -1,5 +1,5 @@
 
-# VLESS Subscription Export
+# blacktemple_json
 
 Python-скрипт для экспорта VLESS-конфигураций в JSON и автономную HTML-страницу из подписки на сервис Blacktemple.
 
